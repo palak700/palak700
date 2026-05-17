@@ -9,7 +9,7 @@
 ---
 
 ## 🛠️ Skills
-HTML | CSS | JavaScript | C++ | Git | GitHub 
+HTML | CSS | JavaScript | C++ | Git | GitHub |  C | SQL | C++ | Python | OOP|
 
 ---
 
