@@ -9,7 +9,7 @@
 ---
 
 ## 🛠️ Skills
-HTML | CSS | JavaScript | React | Git | GitHub |  C | SQL | C++ | Python | OOP|Fast API| Postgres SQL | OOP|
+HTML | CSS | JavaScript | React | Git | GitHub |  C | SQL | C++ | Python | OOP| Fast API| Postgres SQL |
 
 ---
 
