@@ -44,34 +44,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=palak700&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palak700&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palak700&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/palak700/palak700/output/github-contribution-grid-snake.svg" />
-</p>
-
-<!--
-  ⚙️ To activate the snake animation above:
-  1. Create a repo named exactly "palak700" (same as your username) — this is your special profile repo
-  2. Go to Settings → Actions → set up a workflow using the "Platane/snk" action
-     (search "github contribution snake action" for the copy-paste YAML)
-  3. It auto-generates on a schedule and updates the image above
--->
-
----
 
 ### 🎯 Currently Working On
 
