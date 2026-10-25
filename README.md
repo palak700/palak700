@@ -32,9 +32,7 @@
 - 💻 Learning **Web Development** & **DSA**
 - 🌱 Currently deep-diving into **JavaScript** and **React**
 - 🔥 Interested in **Full Stack Development**
-- ⚡ Fun fact: I enjoy turning half-finished ideas into working prototypes
 
----
 
 ### 🛠️ Tech Stack
 
@@ -72,7 +70,7 @@ Always open to collaborating on interesting projects, learning together, or just
 </p>
 
 <p align="center">
-  ⭐ <i>"Code, learn, repeat — that's the loop."</i> ⭐
+  <i>"Code, learn, repeat — that's the loop."</i> 
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
